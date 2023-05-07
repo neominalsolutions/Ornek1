@@ -1,0 +1,21 @@
+.menu {
+  display: block;
+  height: auto;
+  background-color: cadetblue;
+  color: blueviolet;
+  padding: 5px;
+}
+
+.menu-item {
+  text-decoration: none;
+  color: white;
+}
+
+/* menu class içindeki a hover ile üstüne gelince */
+ .menu a:hover {
+  color: yellow;
+  text-decoration: underline;
+}
+
+
+/*  */

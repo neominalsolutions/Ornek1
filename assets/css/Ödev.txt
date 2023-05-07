@@ -1,0 +1,4 @@
+1- Anasayfa da Örnek Makaleler den olucak yazılar olsun
+2- İletişim sayfasında iletişim formu olsun
+3- Hakkımızda sayfasını kendimize göre tasarlıyalım
+4- Her sayfanın kendi ait css dosyası olsun tasarım oradan okunsun.
