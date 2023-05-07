@@ -1,0 +1,6 @@
+git init
+git add * (github gönderilecek olan bütün dizindeki dosyaları git tanıttığımız kod)
+git remote add origin https://github.com/proje-name.git (Hangi repo içine kodları atacağımızı tanıttık)
+git branch -M main (Main isimnde bir brachde dosyaları tutacak) Uygulamanın birden fazla branch olabilir. Ama bütün branchler gün sonunda main ana branch ile birleştirilir.
+git commit -m "sayfalar yazıldı" (komut ile üzerinde çalıştığımız dosyaları github sunucunda göndermek için hazırladık). Commit hazırlık demek
+git push -u origin main
